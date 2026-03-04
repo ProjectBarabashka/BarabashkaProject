@@ -5,3 +5,8 @@
 lubuntu 
 rufus
 флешка 8-16 гб
+как установить lubuntu https://www.cloud4y.ru/blog/kak-ustanovit-ubuntu-22-10/
+
+Lubuntu
+https://github.com/lubuntu-team
+https://lubuntu.me/
